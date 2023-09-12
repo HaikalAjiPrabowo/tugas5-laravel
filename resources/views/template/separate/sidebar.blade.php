@@ -79,6 +79,30 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="{{ route('rak') }}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                rak
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="{{ route('peminjaman') }}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+              peminjaman
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="{{ route('pengembalian') }}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+              pengembalian
+              </p>
+            </a>
+          </li>
           <!-- <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-copy"></i>
@@ -676,5 +700,5 @@
       </nav>
       <!-- /.sidebar-menu -->
     </div>
-    <!-- /.sidebar -->
-  </aside>
+    <!-- /.sidebar -->
+  </aside>

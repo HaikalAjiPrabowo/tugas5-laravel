@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class BukuController extends Controller
+class PengembalianController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -19,7 +19,7 @@ class BukuController extends Controller
      */
     public function create()
     {
-        return view('template.perpus.buku');
+        return view('template.perpus.pengembalian');
     }
 
     /**

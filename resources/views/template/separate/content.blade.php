@@ -45,5 +45,5 @@
       <!-- /.card -->
 
     </section>
-    <!-- /.content -->
-  </div>
+    <!-- /.content -->
+  </div>
